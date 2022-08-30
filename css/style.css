@@ -128,3 +128,10 @@ hr {
     background-color: #b0c926;
 }
 
+ /* il summary */
+summary {
+    font-weight: bold;
+    font-family: 'Jost', sans-serif;
+    font-size: 15px;
+    cursor: pointer;
+}
