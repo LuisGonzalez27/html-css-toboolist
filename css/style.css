@@ -54,3 +54,15 @@ header {
     background-color: #FFFFFF;
     color: #d0d5da;
 }
+
+hr {
+    border: 1px solid #d0d5da;
+}
+
+.lista{
+    margin: 20px 45px;
+}
+
+.lista ul {
+    list-style: none;
+}
