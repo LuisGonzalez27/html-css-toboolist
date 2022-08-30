@@ -135,3 +135,12 @@ summary {
     font-size: 15px;
     cursor: pointer;
 }
+
+/* cambio simbolo nel summary */
+details > summary {
+    list-style-type: "\23F5";
+}
+
+details[open] > summary {
+    list-style-type: "\23F7";
+}
