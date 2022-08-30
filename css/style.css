@@ -3,3 +3,26 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+    background-color: #f6f8f9;
+}
+
+header {
+    height: 70px;
+    padding-top: 10px;
+    background-color: #FFFFFF;
+    
+}
+
+.logo {
+    vertical-align: middle;
+    padding-left: 25px;
+}
+
+.titolo {
+    display: inline;
+    vertical-align: middle;
+    font-family: 'Jost', sans-serif;
+    font-size: 40px;
+}
