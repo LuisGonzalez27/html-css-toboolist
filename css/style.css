@@ -86,6 +86,11 @@ hr {
     color: #82ccba;
   }
 
+.no {
+    border: 1px solid #ff0000;
+    color: #ff0000;
+  }
+
   /* per la targhetta */
 
 .targhetta {
@@ -96,6 +101,20 @@ hr {
     border-radius: 8px;
 }
 
+/* colori targhetta */
 .blu {
     background-color: #45abea;
-  }
+}
+
+.viola{
+    background-color: #9c72e4;
+}
+
+.green {
+    background-color: #64c0a9;
+}
+
+.orange {
+    background-color: #f29e33;
+}
+
