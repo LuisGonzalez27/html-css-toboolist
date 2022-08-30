@@ -85,3 +85,17 @@ hr {
     border: 1px solid #82ccba;
     color: #82ccba;
   }
+
+  /* per la targhetta */
+
+.targhetta {
+    color: #FFFFFF;
+    padding: 6px;
+    font-size: 10px;
+    height: 15px;
+    border-radius: 8px;
+}
+
+.blu {
+    background-color: #45abea;
+  }
