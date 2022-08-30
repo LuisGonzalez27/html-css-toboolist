@@ -12,7 +12,7 @@ header {
     height: 70px;
     padding-top: 10px;
     background-color: #FFFFFF;
-    
+    margin-bottom: 30px;
 }
 
 .logo {
@@ -25,4 +25,32 @@ header {
     vertical-align: middle;
     font-family: 'Jost', sans-serif;
     font-size: 40px;
+}
+
+.contenitore {
+    margin: auto;
+    background-color: #FFFFFF;
+    height: 750px;
+    width: 800px;
+}
+
+.pulsanti {
+    padding: 15px 45px;
+}
+
+.pulsante {
+    padding: 6px;
+    border-radius: 6px;
+    font-size: 11px;
+    border: 1px solid gray;
+}
+
+.task {
+    background-color: #47adf1;
+    color: #FFFFFF;
+}
+
+.section{
+    background-color: #FFFFFF;
+    color: #d0d5da;
 }
